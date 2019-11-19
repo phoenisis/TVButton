@@ -7,6 +7,7 @@
 //
 
 import Foundation
+import UIKit
 
 // Affects reveal, hide and specular shine following animations
 let animationDuration: Double = 0.4
